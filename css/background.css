@@ -1,0 +1,18 @@
+
+body {
+    background-color: #ffffcc;
+    font-family: 'Hind', 'sans-serif';
+    
+}
+
+#title_header {
+    background-color: #b3ccff;
+    color:azure;
+    font-weight: bold;
+
+}
+
+.container-fluid {
+    width: 100%;
+}
+

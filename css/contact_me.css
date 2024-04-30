@@ -1,0 +1,13 @@
+#form_title {
+    font-weight: bold;
+    font-size:1.5rem;
+}
+
+#submit_button {
+    background-color: blue;
+    color: azure;
+}
+
+#title_header {
+    background-color: #4252e6;
+}
